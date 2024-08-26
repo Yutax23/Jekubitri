@@ -1,0 +1,24 @@
+{
+  "mid.$cAAAAANIzykSXu12AC2Rihg2Mi9RM": {
+    "type": "message",
+    "senderID": "61563578010763",
+    "body": "?",
+    "threadID": "61563578010763",
+    "messageID": "mid.$cAAAAANIzykSXu12AC2Rihg2Mi9RM",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1724598728715",
+    "isGroup": false
+  },
+  "mid.$cAAAAANIzykSXu12a-GRihhRv6s5V": {
+    "type": "message",
+    "senderID": "61563578010763",
+    "body": "?help",
+    "threadID": "61563578010763",
+    "messageID": "mid.$cAAAAANIzykSXu12a-GRihhRv6s5V",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1724598735608",
+    "isGroup": false
+  }
+}
