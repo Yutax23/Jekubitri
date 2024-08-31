@@ -15,7 +15,7 @@ const third = `████████╗
         ██║   
         ██║   
         ██║   
-        ╚═╝\n𝙸 𝚠𝚊𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 https://facebook.com/joshg101`;
+        ╚═╝\n𝙸 𝚠𝚊𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 https://facebook.com/it.is.still.jace`;
 const fourth = `██████╗ 
 ██╔══██╗
 ██████╔╝
@@ -35,7 +35,7 @@ const fourth = `██████╗
          ██║   
          ██║   
          ██║   
-        ╚═╝\n𝚃𝚢𝚙𝚎 "${global.deku.PREFIX}help" 𝚝𝚘 𝚟𝚒𝚎𝚠 𝚊𝚕𝚕 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜.\n𝚈𝚘𝚞 𝚌𝚊𝚗 𝚞𝚗𝚜𝚎𝚗𝚝 𝚝𝚑𝚎 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚏 𝚋𝚘𝚝 𝚋𝚢 𝚛𝚎𝚊𝚌𝚝𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 (👍) 𝚘𝚗 𝚒𝚝𝚜 𝚖𝚎𝚜𝚜𝚊𝚐𝚎`;
+        ╚═╝\n𝚃𝚢𝚙𝚎 "${global.deku.PREFIX}help" 𝚝𝚘 𝚟𝚒𝚎𝚠 𝚊𝚕𝚕 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜.\n𝚈𝚘𝚞 𝚌𝚊𝚗 𝚞𝚗𝚜𝚎𝚗𝚝 𝚝𝚑𝚎 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚏 𝚋𝚘𝚝 𝚋𝚢 𝚛𝚎𝚊𝚌𝚝𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 (😠) 𝚘𝚗 𝚒𝚝𝚜 𝚖𝚎𝚜𝚜𝚊𝚐𝚎`;
 module.exports.config = {
           name: "bot",
           accessibleby: 0,
